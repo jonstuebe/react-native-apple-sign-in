@@ -1,7 +1,7 @@
 {
-  "name": "react-native-apple-sign-in",
+  "name": "@jonstuebe/react-native-apple-sign-in",
   "title": "React Native Apple Sign In",
-  "version": "1.0.0",
+  "version": "0.1.1",
   "description": "react-native native module for Apple Login",
   "main": "index.js",
   "scripts": {
@@ -9,8 +9,8 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/github_account/react-native-apple-sign-in.git",
-    "baseUrl": "https://github.com/github_account/react-native-apple-sign-in"
+    "url": "git+https://github.com/jonstuebe/react-native-apple-sign-in.git",
+    "baseUrl": "https://github.com/jonstuebe/react-native-apple-sign-in"
   },
   "keywords": [
     "react-native"
